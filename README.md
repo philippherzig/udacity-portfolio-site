@@ -16,4 +16,4 @@ The projects are displayed as squares in a grid construct that dynamically adapt
 
 You can view the website directly via the following Github Pages link: 
 
-https://philippherzig.github.io/portfolio-site/
+https://philippherzig.github.io/udacity-portfolio-site/
